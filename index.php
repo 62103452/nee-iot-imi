@@ -6,12 +6,5 @@
 
 
 <script src="https://api.thingspeak.com/channels/1458744/feeds.json?results=2"></script>
-<script type="text/javascript">
-         $.getJSON("https://api.thingspeak.com/channels/1458744/feeds.json?results=2",function(json)
-        {
-            console.log(json.with[0].content)
-            var thing = JSON.stringify(json.with[0].content);
-            document.getElementById("test").innerHTML = thing;
-        });
-    </script>
+ 
     
