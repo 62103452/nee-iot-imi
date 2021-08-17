@@ -7,4 +7,3 @@
 
 <script src="https://api.thingspeak.com/channels/1458744/feeds.json?results=2"></script>
  
-    
