@@ -24,8 +24,6 @@
          }
         ?>
      </p>
-      <br>
-
   <?php
         $api_url = 'https://api.thingspeak.com/channels/1458744/fields/1.json?results=1';
         $json_data = file_get_contents($api_url);
@@ -38,8 +36,6 @@
          }
         ?>
       <br>
-
-
 </body>
 </html>
 
