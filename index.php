@@ -1,21 +1,13 @@
 <html>
  <body>
 <head>
-  <title>Bootstrap Example</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  
 </head>
 
-<div class="container">
-  <div class="jumbotron">
+
     <h1><center> Dararat Khanngang 62103452</h1></center>     
     
-  </div>
- </div>
+
 <center><iframe  src="https://thingspeak.com/channels/1458744/maps/channel_show"width="450" height="300" > </center></iframe>  
 <br><br><iframe  src="https://thingspeak.com/channels/1458744/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15"
                 width="450" height="300"  title="Humidity" ></br></br> </iframe>
