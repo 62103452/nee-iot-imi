@@ -58,4 +58,3 @@ function timedRefresh(timeoutPeriod) {
 <body onload="JavaScript:timedRefresh(7000);">
 </body>
 </html>
-
