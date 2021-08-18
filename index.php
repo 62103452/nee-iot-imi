@@ -12,7 +12,7 @@
 
 <div class="container">
   <div class="jumbotron">
-    <h1> Dararat Khanngang 62103452</h1>      
+    <h1><center> Dararat Khanngang 62103452</h1></center>     
     
   </div>
  </div>
