@@ -35,7 +35,7 @@
         ?>
      </p>
   <?php
-        $api_url = 'https://api.thingspeak.com/channels/1458744/fields/1.json?results=1';
+        $api_url = 'https://api.thingspeak.com/channels/1458744/fields/2.json?results=1';
         $json_data = file_get_contents($api_url);
         $response_data = json_decode($json_data);
         $user_data = $response_data->feeds;
