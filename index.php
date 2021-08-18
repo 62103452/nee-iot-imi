@@ -35,7 +35,6 @@
              echo " C"; 
          }
         ?>
-      <br>
 </body>
 </html>
 
