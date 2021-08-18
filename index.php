@@ -1,6 +1,5 @@
 <html>
  <body>
-  <html lang="en">
 <head>
   <title>Bootstrap Example</title>
   <meta charset="utf-8">
@@ -21,7 +20,7 @@
 <br><br><iframe  src="https://thingspeak.com/channels/1458744/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15"
                 width="450" height="300"  title="Humidity" ></br></br> </iframe>
  <iframe  src="https://thingspeak.com/channels/1458744/charts/2?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15"
-        width="450" height="300"  title="Temperature"  > </iframe><br>
+        width="450" height="300"  title="Temperature"  > </iframe><h1><br>
  
      <?php
         $api_url = 'https://api.thingspeak.com/channels/1458744/fields/1.json?results=1';
@@ -46,6 +45,7 @@
              echo " C"; 
          }
         ?>
+</h1>
 
 <script type="text/JavaScript">
 <!--
