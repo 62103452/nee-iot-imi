@@ -19,8 +19,8 @@
         $user_data = $response_data->feeds;
         $user_data = array_slice($user_data, 0);
         foreach ($user_data as $user) {
-           <br> echo "Humidity: ".$user->field1;
-            echo " %";</br>
+            echo "Humidity: ".$user->field1;
+            echo " %";
          }
         ?>
      </p>
