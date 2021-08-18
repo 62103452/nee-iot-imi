@@ -3,10 +3,11 @@
 </head>
  <body>
 
-<div class>
-  <h1>Dararat Khanngang 62103452</h1>
-   
-</div>
+<div class="container">
+  <div class="jumbotron">
+    <h1> Dararat Khanngang 62103452</h1>      
+    
+  </div>
 <h1><center> Dararat Khanngang 62103452</center>
 
  
